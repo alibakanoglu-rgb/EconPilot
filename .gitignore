@@ -1,3 +1,4 @@
 ﻿.env
 .venv/
 __pycache__/
+reports/ai_draft_for_review.md
