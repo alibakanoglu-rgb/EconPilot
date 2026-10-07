@@ -66,4 +66,9 @@ CSV dosyası `data/usdtry.csv`, grafik `data/usdtry\_gunluk.png` konumuna kayded
 
 
 Çıktılar `data/monthly\_macro\_comparison.csv` ve `data/tufe\_usdtry\_indexed.png` dosyalarına kaydedilir.
+## Tüm veri hattını tek komutla çalıştırma
+
+`run_pipeline.py`, TÜFE ve USD/TRY verilerini indirir, ardından aylık karşılaştırmayı üretir.
+
+Çalıştırma: `.\.venv\Scripts\python.exe .\run_pipeline.py`
 
