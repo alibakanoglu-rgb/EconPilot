@@ -53,4 +53,17 @@ CSV dosyası `data/tufe.csv`, grafik `data/tufe\_yillik\_enflasyon.png` konumuna
 
 
 CSV dosyası `data/usdtry.csv`, grafik `data/usdtry\_gunluk.png` konumuna kaydedilir.
+## TÜFE ve USD/TRY karşılaştırması
+
+
+
+`analyze\_macro.py`, günlük USD/TRY alış kurunu aylık ortalamaya çevirir ve TÜFE ile ortak aylar üzerinden karşılaştırır. Grafikte her seri ortak dönemin ilk ayında 100 olacak şekilde endekslenir. Bu grafik birlikte hareketi gösterir; tek başına nedensellik kanıtlamaz.
+
+
+
+Çalıştırma: `.\\.venv\\Scripts\\python.exe .\\analyze\_macro.py`
+
+
+
+Çıktılar `data/monthly\_macro\_comparison.csv` ve `data/tufe\_usdtry\_indexed.png` dosyalarına kaydedilir.
 
