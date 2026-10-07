@@ -1,0 +1,105 @@
+﻿ticker,statement,item,period,unit,table_nature,value,source_file
+TUPRS,FİNANSAL DURUM TABLOSU,Dönen Varlıklar,2023/12,1000TL,Konsolide,201149421.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Duran Varlıklar,2023/12,1000TL,Konsolide,165644252.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Varlıklar,2023/12,1000TL,Konsolide,366793673.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kısa Vadeli Yükümlülükler,2023/12,1000TL,Konsolide,155270974.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Uzun Vadeli Yükümlülükler,2023/12,1000TL,Konsolide,8581932.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Yükümlülükler,2023/12,1000TL,Konsolide,163852906.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ana Ortaklığa Ait Özkaynaklar,2023/12,1000TL,Konsolide,200763253.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ödenmiş Sermaye,2023/12,1000TL,Konsolide,1926796.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kontrol Gücü Olmayan Paylar,2023/12,1000TL,Konsolide,2177514.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Özkaynaklar,2023/12,1000TL,Konsolide,202940767.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Kaynaklar,2023/12,1000TL,Konsolide,366793673.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Dönen Varlıklar,2024/12,1000TL,Konsolide,185591048.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Duran Varlıklar,2024/12,1000TL,Konsolide,268536479.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Varlıklar,2024/12,1000TL,Konsolide,454127527.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kısa Vadeli Yükümlülükler,2024/12,1000TL,Konsolide,148768451.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Uzun Vadeli Yükümlülükler,2024/12,1000TL,Konsolide,19111355.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Yükümlülükler,2024/12,1000TL,Konsolide,167879806.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ana Ortaklığa Ait Özkaynaklar,2024/12,1000TL,Konsolide,282215289.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ödenmiş Sermaye,2024/12,1000TL,Konsolide,1926796.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kontrol Gücü Olmayan Paylar,2024/12,1000TL,Konsolide,4032432.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Özkaynaklar,2024/12,1000TL,Konsolide,286247721.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Kaynaklar,2024/12,1000TL,Konsolide,454127527.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Dönen Varlıklar,2025/12,1000TL,Konsolide,236931136.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Duran Varlıklar,2025/12,1000TL,Konsolide,355042707.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Varlıklar,2025/12,1000TL,Konsolide,591973843.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kısa Vadeli Yükümlülükler,2025/12,1000TL,Konsolide,169748201.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Uzun Vadeli Yükümlülükler,2025/12,1000TL,Konsolide,52397648.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Yükümlülükler,2025/12,1000TL,Konsolide,222145849.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ana Ortaklığa Ait Özkaynaklar,2025/12,1000TL,Konsolide,364099258.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ödenmiş Sermaye,2025/12,1000TL,Konsolide,1926796.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kontrol Gücü Olmayan Paylar,2025/12,1000TL,Konsolide,5728736.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Özkaynaklar,2025/12,1000TL,Konsolide,369827994.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Kaynaklar,2025/12,1000TL,Konsolide,591973843.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Dönen Varlıklar,2026/06,1000TL,Konsolide,439480874.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Duran Varlıklar,2026/06,1000TL,Konsolide,420506642.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Varlıklar,2026/06,1000TL,Konsolide,859987516.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kısa Vadeli Yükümlülükler,2026/06,1000TL,Konsolide,325369321.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Uzun Vadeli Yükümlülükler,2026/06,1000TL,Konsolide,71311414.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Yükümlülükler,2026/06,1000TL,Konsolide,396680735.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ana Ortaklığa Ait Özkaynaklar,2026/06,1000TL,Konsolide,456139125.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Ödenmiş Sermaye,2026/06,1000TL,Konsolide,1926796.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Kontrol Gücü Olmayan Paylar,2026/06,1000TL,Konsolide,7167656.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Özkaynaklar,2026/06,1000TL,Konsolide,463306781.0,TUPRS_ozet_finansallar.xls
+TUPRS,FİNANSAL DURUM TABLOSU,Toplam Kaynaklar,2026/06,1000TL,Konsolide,859987516.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Hasılat,2023/12,1000TL,Konsolide,686528507.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Satışların Maliyeti,2023/12,1000TL,Konsolide,-576796119.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Ticari Faaliyetlerden Brüt Kar (Zarar),2023/12,1000TL,Konsolide,109732388.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Brüt Kâr (Zarar),2023/12,1000TL,Konsolide,109732388.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Esas Faaliyet Kârı (Zararı),2023/12,1000TL,Konsolide,73627774.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Finansman Geliri (Gideri) Öncesi Faaliyet Kârı (Zararı),2023/12,1000TL,Konsolide,74761483.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Vergi Öncesi Kârı (Zararı),2023/12,1000TL,Konsolide,57820358.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Dönem Kârı (Zararı),2023/12,1000TL,Konsolide,53872161.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Net Dönem Kârı (Zararı),2023/12,1000TL,Konsolide,53872161.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Kontrol Gücü Olmayan Paylar",2023/12,1000TL,Konsolide,294825.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Ana Ortaklık Payları",2023/12,1000TL,Konsolide,53577336.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Diğer Kapsamlı Gelir (Gider),2023/12,1000TL,Konsolide,3678046.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Toplam Kapsamlı Gelir (Gider),2023/12,1000TL,Konsolide,57550207.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Kontrol Gücü Olmayan Paylar",2023/12,1000TL,Konsolide,423395.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Ana Ortaklık Payları",2023/12,1000TL,Konsolide,57126812.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Hasılat,2024/12,1000TL,Konsolide,810385588.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Satışların Maliyeti,2024/12,1000TL,Konsolide,-742355284.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Ticari Faaliyetlerden Brüt Kar (Zarar),2024/12,1000TL,Konsolide,68030304.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Brüt Kâr (Zarar),2024/12,1000TL,Konsolide,68030304.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Esas Faaliyet Kârı (Zararı),2024/12,1000TL,Konsolide,35709966.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Finansman Geliri (Gideri) Öncesi Faaliyet Kârı (Zararı),2024/12,1000TL,Konsolide,37136437.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Vergi Öncesi Kârı (Zararı),2024/12,1000TL,Konsolide,31745504.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Dönem Kârı (Zararı),2024/12,1000TL,Konsolide,19033640.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Net Dönem Kârı (Zararı),2024/12,1000TL,Konsolide,19033640.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Kontrol Gücü Olmayan Paylar",2024/12,1000TL,Konsolide,718483.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Ana Ortaklık Payları",2024/12,1000TL,Konsolide,18315157.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Diğer Kapsamlı Gelir (Gider),2024/12,1000TL,Konsolide,22997605.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Toplam Kapsamlı Gelir (Gider),2024/12,1000TL,Konsolide,42031245.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Kontrol Gücü Olmayan Paylar",2024/12,1000TL,Konsolide,911832.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Ana Ortaklık Payları",2024/12,1000TL,Konsolide,41119413.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Hasılat,2025/12,1000TL,Konsolide,830356131.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Satışların Maliyeti,2025/12,1000TL,Konsolide,-749123853.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Ticari Faaliyetlerden Brüt Kar (Zarar),2025/12,1000TL,Konsolide,81232278.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Brüt Kâr (Zarar),2025/12,1000TL,Konsolide,81232278.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Esas Faaliyet Kârı (Zararı),2025/12,1000TL,Konsolide,41646897.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Finansman Geliri (Gideri) Öncesi Faaliyet Kârı (Zararı),2025/12,1000TL,Konsolide,42935493.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Vergi Öncesi Kârı (Zararı),2025/12,1000TL,Konsolide,43768722.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Dönem Kârı (Zararı),2025/12,1000TL,Konsolide,29872672.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Net Dönem Kârı (Zararı),2025/12,1000TL,Konsolide,29872672.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Kontrol Gücü Olmayan Paylar",2025/12,1000TL,Konsolide,349489.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Ana Ortaklık Payları",2025/12,1000TL,Konsolide,29523183.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Diğer Kapsamlı Gelir (Gider),2025/12,1000TL,Konsolide,124982.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Toplam Kapsamlı Gelir (Gider),2025/12,1000TL,Konsolide,29997654.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Kontrol Gücü Olmayan Paylar",2025/12,1000TL,Konsolide,450605.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Ana Ortaklık Payları",2025/12,1000TL,Konsolide,29547049.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Hasılat,2026/06,1000TL,Konsolide,662788010.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Satışların Maliyeti,2026/06,1000TL,Konsolide,-578662326.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Ticari Faaliyetlerden Brüt Kar (Zarar),2026/06,1000TL,Konsolide,84125684.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Brüt Kâr (Zarar),2026/06,1000TL,Konsolide,84125684.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Esas Faaliyet Kârı (Zararı),2026/06,1000TL,Konsolide,59025244.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Finansman Geliri (Gideri) Öncesi Faaliyet Kârı (Zararı),2026/06,1000TL,Konsolide,59686639.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Vergi Öncesi Kârı (Zararı),2026/06,1000TL,Konsolide,61029781.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Sürdürülen Faaliyetler Dönem Kârı (Zararı),2026/06,1000TL,Konsolide,50272473.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Net Dönem Kârı (Zararı),2026/06,1000TL,Konsolide,50272473.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Kontrol Gücü Olmayan Paylar",2026/06,1000TL,Konsolide,424789.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Dönem Kârının (Zararının) Dağılımı, Ana Ortaklık Payları",2026/06,1000TL,Konsolide,49847684.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Diğer Kapsamlı Gelir (Gider),2026/06,1000TL,Konsolide,12847089.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,Toplam Kapsamlı Gelir (Gider),2026/06,1000TL,Konsolide,63119562.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Kontrol Gücü Olmayan Paylar",2026/06,1000TL,Konsolide,421611.0,TUPRS_ozet_finansallar.xls
+TUPRS,KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU,"Toplam Kapsamlı Gelirin Dağılımı, Ana Ortaklık Payları",2026/06,1000TL,Konsolide,62697951.0,TUPRS_ozet_finansallar.xls
