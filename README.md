@@ -71,4 +71,13 @@ CSV dosyası `data/usdtry.csv`, grafik `data/usdtry\_gunluk.png` konumuna kayded
 `run_pipeline.py`, TÜFE ve USD/TRY verilerini indirir, ardından aylık karşılaştırmayı üretir.
 
 Çalıştırma: `.\.venv\Scripts\python.exe .\run_pipeline.py`
+## NVIDIA ile makro veri notu
+
+`.env` dosyasında EVDS anahtarına ek olarak `NVIDIA_API_KEY=anahtarını_buraya_yaz` satırı bulunmalıdır. Anahtarları GitHub'a gönderme.
+
+Önce verileri yenile: `.\.venv\Scripts\python.exe .\run_pipeline.py`
+
+Ardından NVIDIA taslağını üret: `.\.venv\Scripts\python.exe .\analyze_with_nvidia.py`
+
+Hesaplanmış sayısal rapor `reports/macro_brief.md` dosyasına yazılır. Modelin kontrol edilmemiş metni `reports/ai_draft_for_review.md` içinde ayrı tutulur.
 
