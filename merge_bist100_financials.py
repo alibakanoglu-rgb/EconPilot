@@ -130,7 +130,7 @@ def main():
                 "period_code": str(row[4] or ""),
                 "consolidation": str(row[5] or ""),
                 "unit": str(row[6] or ""),
-                "statement_type": str(row[7] or ""),
+                "sector_type": str(row[7] or ""),
                 "source_file": source_file.name,
                 "values": {},
             }
@@ -165,7 +165,7 @@ def main():
     with financial_path.open("w", encoding="utf-8-sig", newline="") as file:
         fields = [
             "ticker", "company", "kap_company", "year", "period_code",
-            "consolidation", "statement_type", "item", "raw_value",
+            "consolidation", "sector_type", "item", "raw_value",
             "unit", "value_tl", "disclosure_id", "published_at", "source_file",
         ]
         writer = csv.DictWriter(file, fieldnames=fields)
@@ -182,7 +182,7 @@ def main():
                     "year": filing["year"],
                     "period_code": filing["period_code"],
                     "consolidation": filing["consolidation"],
-                    "statement_type": filing["statement_type"],
+                    "sector_type": filing["sector_type"],
                     "item": item,
                     "raw_value": value["raw"],
                     "unit": filing["unit"],

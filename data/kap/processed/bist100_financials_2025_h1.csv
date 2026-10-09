@@ -1,4 +1,4 @@
-﻿ticker,company,kap_company,year,period_code,consolidation,statement_type,item,raw_value,unit,value_tl,disclosure_id,published_at,source_file
+﻿ticker,company,kap_company,year,period_code,consolidation,sector_type,item,raw_value,unit,value_tl,disclosure_id,published_at,source_file
 AEFES,ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.,ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.,2025,2,Konsolide,general,Toplam Kaynaklar,394.942.825,1000TL,394942825000,1477177,12-08-2025 23:43:08,group02_2025_h1.xlsx
 AEFES,ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.,ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.,2025,2,Konsolide,general,Kısa Vadeli Yükümlülükler,119.099.138,1000TL,119099138000,1477177,12-08-2025 23:43:08,group02_2025_h1.xlsx
 AEFES,ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.,ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.,2025,2,Konsolide,general,Uzun Vadeli Yükümlülükler,81.923.578,1000TL,81923578000,1477177,12-08-2025 23:43:08,group02_2025_h1.xlsx
