@@ -43,14 +43,16 @@ def money_bn(value_1000tl):
 
 
 def percent(value):
+    if value is None:
+        return "hesaplanmadı"
     return f"%{value:.1f}".replace(".", ",")
 
 
 def yoy_change(previous, current):
-    if previous == 0:
+    # Önceki dönem sıfır veya zarardaysa yüzde değişim yanıltıcı olabilir.
+    if previous is None or current is None or previous <= 0:
         return None
     return (current / previous - 1) * 100
-
 
 lines = [
     "# TUPRS | KAP finansal özet",
