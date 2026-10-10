@@ -141,7 +141,7 @@ report_text = f"""# EconPilot — Aylık makro veri notu
 
 ## Sınırlılıklar
 
-- Karşılaştırma 25 aylık ortak dönemi kapsıyor.
+- Karşılaştırma {len(df)} aylık ortak dönemi kapsıyor.
 - İlk 12 ay için yıllık değişim hesaplanamadığından bu gözlemler sıfır olarak yorumlanmamalı.
 - Bu betimleyici karşılaştırma tek başına korelasyon veya nedensellik kanıtlamaz.
 
