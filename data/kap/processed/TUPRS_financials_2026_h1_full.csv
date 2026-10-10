@@ -1,0 +1,409 @@
+﻿ticker,statement,item,item_code,period,period_basis,unit,consolidation,value,source_file
+TUPRS,Bilanço,Nakit ve Nakit Benzerleri,5,2026/06,point_in_time,1.000 TL,Konsolide,195840940.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Nakit ve Nakit Benzerleri,5,2025/12,point_in_time,1.000 TL,Konsolide,126280395.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Finansal Yatırımlar,5,2026/06,point_in_time,1.000 TL,Konsolide,3077642.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Finansal Yatırımlar,5,2025/12,point_in_time,1.000 TL,Konsolide,41.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ticari Alacaklar,7,2026/06,point_in_time,1.000 TL,Konsolide,78747644.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ticari Alacaklar,7,2025/12,point_in_time,1.000 TL,Konsolide,62120487.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Taraflardan Ticari Alacaklar,"7, 28",2026/06,point_in_time,1.000 TL,Konsolide,16490262.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Taraflardan Ticari Alacaklar,"7, 28",2025/12,point_in_time,1.000 TL,Konsolide,14211768.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflardan Ticari Alacaklar,,2026/06,point_in_time,1.000 TL,Konsolide,62257382.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflardan Ticari Alacaklar,,2025/12,point_in_time,1.000 TL,Konsolide,47908719.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Alacaklar,16,2026/06,point_in_time,1.000 TL,Konsolide,726596.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Alacaklar,16,2025/12,point_in_time,1.000 TL,Konsolide,735469.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflardan Diğer Alacaklar,,2026/06,point_in_time,1.000 TL,Konsolide,726596.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflardan Diğer Alacaklar,,2025/12,point_in_time,1.000 TL,Konsolide,735469.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2026/06,point_in_time,1.000 TL,Konsolide,35574073.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2025/12,point_in_time,1.000 TL,Konsolide,1646671.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Stoklar,8,2026/06,point_in_time,1.000 TL,Konsolide,97044745.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Stoklar,8,2025/12,point_in_time,1.000 TL,Konsolide,73181263.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Peşin Ödenmiş Giderler,12,2026/06,point_in_time,1.000 TL,Konsolide,2808946.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Peşin Ödenmiş Giderler,12,2025/12,point_in_time,1.000 TL,Konsolide,2747049.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Dönen Varlıklar,13,2026/06,point_in_time,1.000 TL,Konsolide,25660288.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Dönen Varlıklar,13,2025/12,point_in_time,1.000 TL,Konsolide,12293990.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,ARA TOPLAM,,2026/06,point_in_time,1.000 TL,Konsolide,439480874.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,ARA TOPLAM,,2025/12,point_in_time,1.000 TL,Konsolide,279005365.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM DÖNEN VARLIKLAR,,2026/06,point_in_time,1.000 TL,Konsolide,439480874.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM DÖNEN VARLIKLAR,,2025/12,point_in_time,1.000 TL,Konsolide,279005365.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Finansal Yatırımlar,,2026/06,point_in_time,1.000 TL,Konsolide,1172008.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Finansal Yatırımlar,,2025/12,point_in_time,1.000 TL,Konsolide,1171474.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2026/06,point_in_time,1.000 TL,Konsolide,88097.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2025/12,point_in_time,1.000 TL,Konsolide,16174.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Özkaynak Yöntemiyle Değerlenen Yatırımlar,9,2026/06,point_in_time,1.000 TL,Konsolide,19800794.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Özkaynak Yöntemiyle Değerlenen Yatırımlar,9,2025/12,point_in_time,1.000 TL,Konsolide,20573076.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Maddi Duran Varlıklar,10,2026/06,point_in_time,1.000 TL,Konsolide,350569987.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Maddi Duran Varlıklar,10,2025/12,point_in_time,1.000 TL,Konsolide,348858200.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kullanım Hakkı Varlıkları,,2026/06,point_in_time,1.000 TL,Konsolide,1091535.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kullanım Hakkı Varlıkları,,2025/12,point_in_time,1.000 TL,Konsolide,1203065.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Maddi Olmayan Duran Varlıklar,,2026/06,point_in_time,1.000 TL,Konsolide,11231590.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Maddi Olmayan Duran Varlıklar,,2025/12,point_in_time,1.000 TL,Konsolide,11928763.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Şerefiye,,2026/06,point_in_time,1.000 TL,Konsolide,4786.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Şerefiye,,2025/12,point_in_time,1.000 TL,Konsolide,4786.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Maddi Olmayan Duran Varlıklar,11,2026/06,point_in_time,1.000 TL,Konsolide,11226804.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Maddi Olmayan Duran Varlıklar,11,2025/12,point_in_time,1.000 TL,Konsolide,11923977.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Peşin Ödenmiş Giderler,12,2026/06,point_in_time,1.000 TL,Konsolide,10866914.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Peşin Ödenmiş Giderler,12,2025/12,point_in_time,1.000 TL,Konsolide,8325821.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ertelenmiş Vergi Varlığı,26,2026/06,point_in_time,1.000 TL,Konsolide,575805.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ertelenmiş Vergi Varlığı,26,2025/12,point_in_time,1.000 TL,Konsolide,1290948.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Duran Varlıklar,13,2026/06,point_in_time,1.000 TL,Konsolide,25109912.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Duran Varlıklar,13,2025/12,point_in_time,1.000 TL,Konsolide,24723669.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM DURAN VARLIKLAR,,2026/06,point_in_time,1.000 TL,Konsolide,420506642.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM DURAN VARLIKLAR,,2025/12,point_in_time,1.000 TL,Konsolide,418091190.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM VARLIKLAR,,2026/06,point_in_time,1.000 TL,Konsolide,859987516.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM VARLIKLAR,,2025/12,point_in_time,1.000 TL,Konsolide,697096555.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kısa Vadeli Borçlanmalar,6,2026/06,point_in_time,1.000 TL,Konsolide,17579248.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kısa Vadeli Borçlanmalar,6,2025/12,point_in_time,1.000 TL,Konsolide,10547702.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Uzun Vadeli Borçlanmaların Kısa Vadeli Kısımları,6,2026/06,point_in_time,1.000 TL,Konsolide,14178331.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Uzun Vadeli Borçlanmaların Kısa Vadeli Kısımları,6,2025/12,point_in_time,1.000 TL,Konsolide,15147930.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ticari Borçlar,7,2026/06,point_in_time,1.000 TL,Konsolide,209432458.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ticari Borçlar,7,2025/12,point_in_time,1.000 TL,Konsolide,124250300.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Taraflara Ticari Borçlar,"7, 28",2026/06,point_in_time,1.000 TL,Konsolide,1089837.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Taraflara Ticari Borçlar,"7, 28",2025/12,point_in_time,1.000 TL,Konsolide,1397240.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflara Ticari Borçlar,,2026/06,point_in_time,1.000 TL,Konsolide,208342621.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflara Ticari Borçlar,,2025/12,point_in_time,1.000 TL,Konsolide,122853060.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Çalışanlara Sağlanan Faydalar Kapsamında Borçlar,15,2026/06,point_in_time,1.000 TL,Konsolide,1391375.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Çalışanlara Sağlanan Faydalar Kapsamında Borçlar,15,2025/12,point_in_time,1.000 TL,Konsolide,1815102.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Borçlar,16,2026/06,point_in_time,1.000 TL,Konsolide,13641486.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Borçlar,16,2025/12,point_in_time,1.000 TL,Konsolide,1215457.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Taraflara Diğer Borçlar,"16, 28",2026/06,point_in_time,1.000 TL,Konsolide,6648913.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Taraflara Diğer Borçlar,"16, 28",2025/12,point_in_time,1.000 TL,Konsolide,709528.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflara Diğer Borçlar,,2026/06,point_in_time,1.000 TL,Konsolide,6992573.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,İlişkili Olmayan Taraflara Diğer Borçlar,,2025/12,point_in_time,1.000 TL,Konsolide,505929.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2026/06,point_in_time,1.000 TL,Konsolide,17671547.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2025/12,point_in_time,1.000 TL,Konsolide,838475.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ertelenmiş Gelirler (Müşteri Sözleşmelerinden Doğan Yükümlülüklerin Dışında Kalanlar),,2026/06,point_in_time,1.000 TL,Konsolide,1209057.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ertelenmiş Gelirler (Müşteri Sözleşmelerinden Doğan Yükümlülüklerin Dışında Kalanlar),,2025/12,point_in_time,1.000 TL,Konsolide,676178.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Dönem Karı Vergi Yükümlülüğü,26,2026/06,point_in_time,1.000 TL,Konsolide,1877579.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Dönem Karı Vergi Yükümlülüğü,26,2025/12,point_in_time,1.000 TL,Konsolide,37093.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kısa Vadeli Karşılıklar,14,2026/06,point_in_time,1.000 TL,Konsolide,6493603.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kısa Vadeli Karşılıklar,14,2025/12,point_in_time,1.000 TL,Konsolide,2884261.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Çalışanlara Sağlanan Faydalara İlişkin Kısa Vadeli Karşılıklar,,2026/06,point_in_time,1.000 TL,Konsolide,2209593.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Çalışanlara Sağlanan Faydalara İlişkin Kısa Vadeli Karşılıklar,,2025/12,point_in_time,1.000 TL,Konsolide,283482.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Kısa Vadeli Karşılıklar,,2026/06,point_in_time,1.000 TL,Konsolide,4284010.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Kısa Vadeli Karşılıklar,,2025/12,point_in_time,1.000 TL,Konsolide,2600779.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Kısa Vadeli Yükümlülükler,13,2026/06,point_in_time,1.000 TL,Konsolide,41894637.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Kısa Vadeli Yükümlülükler,13,2025/12,point_in_time,1.000 TL,Konsolide,42479588.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,ARA TOPLAM,,2026/06,point_in_time,1.000 TL,Konsolide,325369321.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,ARA TOPLAM,,2025/12,point_in_time,1.000 TL,Konsolide,199892086.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM KISA VADELİ YÜKÜMLÜLÜKLER,,2026/06,point_in_time,1.000 TL,Konsolide,325369321.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM KISA VADELİ YÜKÜMLÜLÜKLER,,2025/12,point_in_time,1.000 TL,Konsolide,199892086.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Uzun Vadeli Borçlanmalar,6,2026/06,point_in_time,1.000 TL,Konsolide,36443100.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Uzun Vadeli Borçlanmalar,6,2025/12,point_in_time,1.000 TL,Konsolide,33477157.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2026/06,point_in_time,1.000 TL,Konsolide,332527.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Türev Araçlar,17,2025/12,point_in_time,1.000 TL,Konsolide,507652.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Uzun Vadeli Karşılıklar,14,2026/06,point_in_time,1.000 TL,Konsolide,3663749.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Uzun Vadeli Karşılıklar,14,2025/12,point_in_time,1.000 TL,Konsolide,3598565.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Çalışanlara Sağlanan Faydalara İlişkin Uzun Vadeli Karşılıklar,,2026/06,point_in_time,1.000 TL,Konsolide,2965422.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Çalışanlara Sağlanan Faydalara İlişkin Uzun Vadeli Karşılıklar,,2025/12,point_in_time,1.000 TL,Konsolide,2841458.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Uzun Vadeli Karşılıklar,,2026/06,point_in_time,1.000 TL,Konsolide,698327.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Uzun Vadeli Karşılıklar,,2025/12,point_in_time,1.000 TL,Konsolide,757107.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ertelenmiş Vergi Yükümlülüğü,26,2026/06,point_in_time,1.000 TL,Konsolide,30853182.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ertelenmiş Vergi Yükümlülüğü,26,2025/12,point_in_time,1.000 TL,Konsolide,24098169.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Uzun Vadeli Yükümlülükler,,2026/06,point_in_time,1.000 TL,Konsolide,18856.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Diğer Uzun Vadeli Yükümlülükler,,2025/12,point_in_time,1.000 TL,Konsolide,20878.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM UZUN VADELİ YÜKÜMLÜLÜKLER,,2026/06,point_in_time,1.000 TL,Konsolide,71311414.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM UZUN VADELİ YÜKÜMLÜLÜKLER,,2025/12,point_in_time,1.000 TL,Konsolide,61702421.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM YÜKÜMLÜLÜKLER,,2026/06,point_in_time,1.000 TL,Konsolide,396680735.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM YÜKÜMLÜLÜKLER,,2025/12,point_in_time,1.000 TL,Konsolide,261594507.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ana Ortaklığa Ait Özkaynaklar,,2026/06,point_in_time,1.000 TL,Konsolide,456139125.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ana Ortaklığa Ait Özkaynaklar,,2025/12,point_in_time,1.000 TL,Konsolide,428756003.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ödenmiş Sermaye,19,2026/06,point_in_time,1.000 TL,Konsolide,1926796.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Ödenmiş Sermaye,19,2025/12,point_in_time,1.000 TL,Konsolide,1926796.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Sermaye Düzeltme Farkları,19,2026/06,point_in_time,1.000 TL,Konsolide,57153088.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Sermaye Düzeltme Farkları,19,2025/12,point_in_time,1.000 TL,Konsolide,57153088.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kar veya Zararda Yeniden Sınıflandırılmayacak Birikmiş Diğer Kapsamlı Gelirler (Giderler),,2026/06,point_in_time,1.000 TL,Konsolide,36218287.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kar veya Zararda Yeniden Sınıflandırılmayacak Birikmiş Diğer Kapsamlı Gelirler (Giderler),,2025/12,point_in_time,1.000 TL,Konsolide,36207282.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Yeniden Değerleme ve Ölçüm Kazançları (Kayıpları),,2026/06,point_in_time,1.000 TL,Konsolide,35146346.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Yeniden Değerleme ve Ölçüm Kazançları (Kayıpları),,2025/12,point_in_time,1.000 TL,Konsolide,35146346.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Maddi Duran Varlık Yeniden Değerleme Artışları (Azalışları),,2026/06,point_in_time,1.000 TL,Konsolide,35400236.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Maddi Duran Varlık Yeniden Değerleme Artışları (Azalışları),,2025/12,point_in_time,1.000 TL,Konsolide,35400236.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Tanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (Kayıpları),,2026/06,point_in_time,1.000 TL,Konsolide,-253890.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Tanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (Kayıpları),,2025/12,point_in_time,1.000 TL,Konsolide,-253890.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Özkaynak Yöntemi ile Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılmayacak Paylar,,2026/06,point_in_time,1.000 TL,Konsolide,1071941.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Özkaynak Yöntemi ile Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılmayacak Paylar,,2025/12,point_in_time,1.000 TL,Konsolide,1060936.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kar veya Zararda Yeniden Sınıflandırılacak Birikmiş Diğer Kapsamlı Gelirler (Giderler),,2026/06,point_in_time,1.000 TL,Konsolide,16857793.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kar veya Zararda Yeniden Sınıflandırılacak Birikmiş Diğer Kapsamlı Gelirler (Giderler),,2025/12,point_in_time,1.000 TL,Konsolide,4018531.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Yabancı Para Çevrim Farkları,,2026/06,point_in_time,1.000 TL,Konsolide,-1511642.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Yabancı Para Çevrim Farkları,,2025/12,point_in_time,1.000 TL,Konsolide,-589802.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Riskten Korunma Kazançları (Kayıpları),,2026/06,point_in_time,1.000 TL,Konsolide,14939725.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Riskten Korunma Kazançları (Kayıpları),,2025/12,point_in_time,1.000 TL,Konsolide,1060514.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Nakit Akış Riskinden Korunma Kazançları (Kayıpları),,2026/06,point_in_time,1.000 TL,Konsolide,14939725.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Nakit Akış Riskinden Korunma Kazançları (Kayıpları),,2025/12,point_in_time,1.000 TL,Konsolide,1060514.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Özkaynak Yöntemi ile Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar/Zararda Sınıflandırılacak Paylar,,2026/06,point_in_time,1.000 TL,Konsolide,3429710.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Özkaynak Yöntemi ile Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar/Zararda Sınıflandırılacak Paylar,,2025/12,point_in_time,1.000 TL,Konsolide,3547819.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kardan Ayrılan Kısıtlanmış Yedekler,19,2026/06,point_in_time,1.000 TL,Konsolide,17350585.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kardan Ayrılan Kısıtlanmış Yedekler,19,2025/12,point_in_time,1.000 TL,Konsolide,17584881.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Geçmiş Yıllar Karları veya Zararları,,2026/06,point_in_time,1.000 TL,Konsolide,276784892.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Geçmiş Yıllar Karları veya Zararları,,2025/12,point_in_time,1.000 TL,Konsolide,277099515.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Net Dönem Karı veya Zararı,,2026/06,point_in_time,1.000 TL,Konsolide,49847684.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Net Dönem Karı veya Zararı,,2025/12,point_in_time,1.000 TL,Konsolide,34765910.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kontrol Gücü Olmayan Paylar,,2026/06,point_in_time,1.000 TL,Konsolide,7167656.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,Kontrol Gücü Olmayan Paylar,,2025/12,point_in_time,1.000 TL,Konsolide,6746045.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM ÖZKAYNAKLAR,,2026/06,point_in_time,1.000 TL,Konsolide,463306781.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM ÖZKAYNAKLAR,,2025/12,point_in_time,1.000 TL,Konsolide,435502048.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM KAYNAKLAR,,2026/06,point_in_time,1.000 TL,Konsolide,859987516.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Bilanço,TOPLAM KAYNAKLAR,,2025/12,point_in_time,1.000 TL,Konsolide,697096555.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Hasılat,20,2026/06,year_to_date,1.000 TL,Konsolide,662788010.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Hasılat,20,2025/06,year_to_date,1.000 TL,Konsolide,464119398.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Hasılat,20,2026/06,quarter,1.000 TL,Konsolide,386420235.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Hasılat,20,2025/06,quarter,1.000 TL,Konsolide,241975612.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Satışların Maliyeti,20,2026/06,year_to_date,1.000 TL,Konsolide,-578662326.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Satışların Maliyeti,20,2025/06,year_to_date,1.000 TL,Konsolide,-422131404.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Satışların Maliyeti,20,2026/06,quarter,1.000 TL,Konsolide,-325383285.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Satışların Maliyeti,20,2025/06,quarter,1.000 TL,Konsolide,-218424528.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,TİCARİ FAALİYETLERDEN BRÜT KAR (ZARAR),,2026/06,year_to_date,1.000 TL,Konsolide,84125684.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,TİCARİ FAALİYETLERDEN BRÜT KAR (ZARAR),,2025/06,year_to_date,1.000 TL,Konsolide,41987994.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,TİCARİ FAALİYETLERDEN BRÜT KAR (ZARAR),,2026/06,quarter,1.000 TL,Konsolide,61036950.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,TİCARİ FAALİYETLERDEN BRÜT KAR (ZARAR),,2025/06,quarter,1.000 TL,Konsolide,23551084.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,BRÜT KAR (ZARAR),,2026/06,year_to_date,1.000 TL,Konsolide,84125684.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,BRÜT KAR (ZARAR),,2025/06,year_to_date,1.000 TL,Konsolide,41987994.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,BRÜT KAR (ZARAR),,2026/06,quarter,1.000 TL,Konsolide,61036950.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,BRÜT KAR (ZARAR),,2025/06,quarter,1.000 TL,Konsolide,23551084.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Genel Yönetim Giderleri,21,2026/06,year_to_date,1.000 TL,Konsolide,-13882060.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Genel Yönetim Giderleri,21,2025/06,year_to_date,1.000 TL,Konsolide,-12239818.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Genel Yönetim Giderleri,21,2026/06,quarter,1.000 TL,Konsolide,-7230550.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Genel Yönetim Giderleri,21,2025/06,quarter,1.000 TL,Konsolide,-6304100.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Pazarlama Giderleri,21,2026/06,year_to_date,1.000 TL,Konsolide,-7520531.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Pazarlama Giderleri,21,2025/06,year_to_date,1.000 TL,Konsolide,-6011496.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Pazarlama Giderleri,21,2026/06,quarter,1.000 TL,Konsolide,-3737370.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Pazarlama Giderleri,21,2025/06,quarter,1.000 TL,Konsolide,-3119278.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Araştırma ve Geliştirme Giderleri,21,2026/06,year_to_date,1.000 TL,Konsolide,-349166.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Araştırma ve Geliştirme Giderleri,21,2025/06,year_to_date,1.000 TL,Konsolide,-285700.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Araştırma ve Geliştirme Giderleri,21,2026/06,quarter,1.000 TL,Konsolide,-168866.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Araştırma ve Geliştirme Giderleri,21,2025/06,quarter,1.000 TL,Konsolide,-127376.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Gelirler,22,2026/06,year_to_date,1.000 TL,Konsolide,10412127.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Gelirler,22,2025/06,year_to_date,1.000 TL,Konsolide,8708883.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Gelirler,22,2026/06,quarter,1.000 TL,Konsolide,6047002.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Gelirler,22,2025/06,quarter,1.000 TL,Konsolide,5362069.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Giderler,22,2026/06,year_to_date,1.000 TL,Konsolide,-13760810.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Giderler,22,2025/06,year_to_date,1.000 TL,Konsolide,-13998945.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Giderler,22,2026/06,quarter,1.000 TL,Konsolide,-9113476.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Esas Faaliyetlerden Diğer Giderler,22,2025/06,quarter,1.000 TL,Konsolide,-6650565.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,ESAS FAALİYET KARI (ZARARI),,2026/06,year_to_date,1.000 TL,Konsolide,59025244.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,ESAS FAALİYET KARI (ZARARI),,2025/06,year_to_date,1.000 TL,Konsolide,18160918.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,ESAS FAALİYET KARI (ZARARI),,2026/06,quarter,1.000 TL,Konsolide,46833690.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,ESAS FAALİYET KARI (ZARARI),,2025/06,quarter,1.000 TL,Konsolide,12711834.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Yatırım Faaliyetlerinden Gelirler,23,2025/06,year_to_date,1.000 TL,Konsolide,45225.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Yatırım Faaliyetlerinden Gelirler,23,2025/06,quarter,1.000 TL,Konsolide,35717.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Yatırım Faaliyetlerinden Giderler,23,2026/06,year_to_date,1.000 TL,Konsolide,-11217.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Yatırım Faaliyetlerinden Giderler,23,2026/06,quarter,1.000 TL,Konsolide,-11053.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Özkaynak Yöntemiyle Değerlenen Yatırımların Karlarından (Zararlarından) Paylar,9,2026/06,year_to_date,1.000 TL,Konsolide,672612.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Özkaynak Yöntemiyle Değerlenen Yatırımların Karlarından (Zararlarından) Paylar,9,2025/06,year_to_date,1.000 TL,Konsolide,747420.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Özkaynak Yöntemiyle Değerlenen Yatırımların Karlarından (Zararlarından) Paylar,9,2026/06,quarter,1.000 TL,Konsolide,761704.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Özkaynak Yöntemiyle Değerlenen Yatırımların Karlarından (Zararlarından) Paylar,9,2025/06,quarter,1.000 TL,Konsolide,825924.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,FİNANSMAN GELİRİ (GİDERİ) ÖNCESİ FAALİYET KARI (ZARARI),,2026/06,year_to_date,1.000 TL,Konsolide,59686639.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,FİNANSMAN GELİRİ (GİDERİ) ÖNCESİ FAALİYET KARI (ZARARI),,2025/06,year_to_date,1.000 TL,Konsolide,18953563.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,FİNANSMAN GELİRİ (GİDERİ) ÖNCESİ FAALİYET KARI (ZARARI),,2026/06,quarter,1.000 TL,Konsolide,47584341.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,FİNANSMAN GELİRİ (GİDERİ) ÖNCESİ FAALİYET KARI (ZARARI),,2025/06,quarter,1.000 TL,Konsolide,13573475.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Gelirleri,24,2026/06,year_to_date,1.000 TL,Konsolide,19543564.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Gelirleri,24,2025/06,year_to_date,1.000 TL,Konsolide,13302009.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Gelirleri,24,2026/06,quarter,1.000 TL,Konsolide,11667507.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Gelirleri,24,2025/06,quarter,1.000 TL,Konsolide,7440696.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Giderleri,24,2026/06,year_to_date,1.000 TL,Konsolide,-14753578.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Giderleri,24,2025/06,year_to_date,1.000 TL,Konsolide,-11579478.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Giderleri,24,2026/06,quarter,1.000 TL,Konsolide,-8520773.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Finansman Giderleri,24,2025/06,quarter,1.000 TL,Konsolide,-6749463.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Net Parasal Pozisyon Kazançları (Kayıpları),25,2026/06,year_to_date,1.000 TL,Konsolide,-3446844.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Net Parasal Pozisyon Kazançları (Kayıpları),25,2025/06,year_to_date,1.000 TL,Konsolide,-2571177.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Net Parasal Pozisyon Kazançları (Kayıpları),25,2026/06,quarter,1.000 TL,Konsolide,-812395.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Net Parasal Pozisyon Kazançları (Kayıpları),25,2025/06,quarter,1.000 TL,Konsolide,292323.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),,2026/06,year_to_date,1.000 TL,Konsolide,61029781.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),,2025/06,year_to_date,1.000 TL,Konsolide,18104917.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),,2026/06,quarter,1.000 TL,Konsolide,49918680.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),,2025/06,quarter,1.000 TL,Konsolide,14557031.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Sürdürülen Faaliyetler Vergi (Gideri) Geliri,,2026/06,year_to_date,1.000 TL,Konsolide,-10757308.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Sürdürülen Faaliyetler Vergi (Gideri) Geliri,,2025/06,year_to_date,1.000 TL,Konsolide,-6123357.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Sürdürülen Faaliyetler Vergi (Gideri) Geliri,,2026/06,quarter,1.000 TL,Konsolide,-3728899.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Sürdürülen Faaliyetler Vergi (Gideri) Geliri,,2025/06,quarter,1.000 TL,Konsolide,-2743706.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Dönem Vergi (Gideri) Geliri,26,2026/06,year_to_date,1.000 TL,Konsolide,-7867528.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Dönem Vergi (Gideri) Geliri,26,2025/06,year_to_date,1.000 TL,Konsolide,-654656.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Dönem Vergi (Gideri) Geliri,26,2026/06,quarter,1.000 TL,Konsolide,-3150722.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Dönem Vergi (Gideri) Geliri,26,2025/06,quarter,1.000 TL,Konsolide,-465527.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ertelenmiş Vergi (Gideri) Geliri,26,2026/06,year_to_date,1.000 TL,Konsolide,-2889780.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ertelenmiş Vergi (Gideri) Geliri,26,2025/06,year_to_date,1.000 TL,Konsolide,-5468701.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ertelenmiş Vergi (Gideri) Geliri,26,2026/06,quarter,1.000 TL,Konsolide,-578177.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ertelenmiş Vergi (Gideri) Geliri,26,2025/06,quarter,1.000 TL,Konsolide,-2278179.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI (ZARARI),,2026/06,year_to_date,1.000 TL,Konsolide,50272473.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI (ZARARI),,2025/06,year_to_date,1.000 TL,Konsolide,11981560.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI (ZARARI),,2026/06,quarter,1.000 TL,Konsolide,46189781.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI (ZARARI),,2025/06,quarter,1.000 TL,Konsolide,11813325.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,DÖNEM KARI (ZARARI),,2026/06,year_to_date,1.000 TL,Konsolide,50272473.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,DÖNEM KARI (ZARARI),,2025/06,year_to_date,1.000 TL,Konsolide,11981560.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,DÖNEM KARI (ZARARI),,2026/06,quarter,1.000 TL,Konsolide,46189781.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,DÖNEM KARI (ZARARI),,2025/06,quarter,1.000 TL,Konsolide,11813325.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Kontrol Gücü Olmayan Paylar,,2026/06,year_to_date,1.000 TL,Konsolide,424789.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Kontrol Gücü Olmayan Paylar,,2025/06,year_to_date,1.000 TL,Konsolide,109323.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Kontrol Gücü Olmayan Paylar,,2026/06,quarter,1.000 TL,Konsolide,312060.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Kontrol Gücü Olmayan Paylar,,2025/06,quarter,1.000 TL,Konsolide,77042.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ana Ortaklık Payları,,2026/06,year_to_date,1.000 TL,Konsolide,49847684.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ana Ortaklık Payları,,2025/06,year_to_date,1.000 TL,Konsolide,11872237.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ana Ortaklık Payları,,2026/06,quarter,1.000 TL,Konsolide,45877721.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Kâr veya Zarar,Ana Ortaklık Payları,,2025/06,quarter,1.000 TL,Konsolide,11736283.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DÖNEM KARI (ZARARI),,2026/06,year_to_date,1.000 TL,Konsolide,50272473.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DÖNEM KARI (ZARARI),,2025/06,year_to_date,1.000 TL,Konsolide,11981560.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DÖNEM KARI (ZARARI),,2026/06,quarter,1.000 TL,Konsolide,46189781.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DÖNEM KARI (ZARARI),,2025/06,quarter,1.000 TL,Konsolide,11813325.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılmayacaklar,,2026/06,year_to_date,1.000 TL,Konsolide,11005.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılmayacaklar,,2025/06,year_to_date,1.000 TL,Konsolide,28731.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılmayacaklar,,2026/06,quarter,1.000 TL,Konsolide,-13423.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılmayacaklar,,2025/06,quarter,1.000 TL,Konsolide,1465.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılmayacak Paylar,,2026/06,year_to_date,1.000 TL,Konsolide,11005.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılmayacak Paylar,,2025/06,year_to_date,1.000 TL,Konsolide,28731.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılmayacak Paylar,,2026/06,quarter,1.000 TL,Konsolide,-13423.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılmayacak Paylar,,2025/06,quarter,1.000 TL,Konsolide,1465.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Tanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (Kayıpları),9.0,2026/06,year_to_date,1.000 TL,Konsolide,11005.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Tanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (Kayıpları),9.0,2025/06,year_to_date,1.000 TL,Konsolide,28731.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Tanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (Kayıpları),9.0,2026/06,quarter,1.000 TL,Konsolide,-13423.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Tanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (Kayıpları),9.0,2025/06,quarter,1.000 TL,Konsolide,1465.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zarar Olarak Yeniden Sınıflandırılacaklar,,2026/06,year_to_date,1.000 TL,Konsolide,12836084.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zarar Olarak Yeniden Sınıflandırılacaklar,,2025/06,year_to_date,1.000 TL,Konsolide,-685961.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zarar Olarak Yeniden Sınıflandırılacaklar,,2026/06,quarter,1.000 TL,Konsolide,31794714.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zarar Olarak Yeniden Sınıflandırılacaklar,,2025/06,quarter,1.000 TL,Konsolide,-1549532.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farkları,,2026/06,year_to_date,1.000 TL,Konsolide,-925850.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farkları,,2025/06,year_to_date,1.000 TL,Konsolide,-50015.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farkları,,2026/06,quarter,1.000 TL,Konsolide,-280233.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farkları,,2025/06,quarter,1.000 TL,Konsolide,-32763.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farklarından Kazançlar (Kayıplar),,2026/06,year_to_date,1.000 TL,Konsolide,-925850.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farklarından Kazançlar (Kayıplar),,2025/06,year_to_date,1.000 TL,Konsolide,-50015.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farklarından Kazançlar (Kayıplar),,2026/06,quarter,1.000 TL,Konsolide,-280233.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Yurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim Farklarından Kazançlar (Kayıplar),,2025/06,quarter,1.000 TL,Konsolide,-32763.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunmaya İlişkin Diğer Kapsamlı Gelir (Gider),,2026/06,year_to_date,1.000 TL,Konsolide,18523908.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunmaya İlişkin Diğer Kapsamlı Gelir (Gider),,2025/06,year_to_date,1.000 TL,Konsolide,-1050190.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunmaya İlişkin Diğer Kapsamlı Gelir (Gider),,2026/06,quarter,1.000 TL,Konsolide,43057162.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunmaya İlişkin Diğer Kapsamlı Gelir (Gider),,2025/06,quarter,1.000 TL,Konsolide,-1818443.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunma Kazançları (Kayıpları),,2026/06,year_to_date,1.000 TL,Konsolide,18523908.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunma Kazançları (Kayıpları),,2025/06,year_to_date,1.000 TL,Konsolide,-1050190.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunma Kazançları (Kayıpları),,2026/06,quarter,1.000 TL,Konsolide,43057162.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Nakit Akış Riskinden Korunma Kazançları (Kayıpları),,2025/06,quarter,1.000 TL,Konsolide,-1818443.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılacak Paylar,,2026/06,year_to_date,1.000 TL,Konsolide,-118109.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılacak Paylar,,2025/06,year_to_date,1.000 TL,Konsolide,47686.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılacak Paylar,,2026/06,quarter,1.000 TL,Konsolide,-212399.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Diğer Kapsamlı Gelirinden Kar veya Zararda Sınıflandırılacak Paylar,,2025/06,quarter,1.000 TL,Konsolide,-222651.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Yabancı Para Çevrim Farkları Kazançları (Kayıpları),9.0,2026/06,year_to_date,1.000 TL,Konsolide,-118109.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Yabancı Para Çevrim Farkları Kazançları (Kayıpları),9.0,2025/06,year_to_date,1.000 TL,Konsolide,47686.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Yabancı Para Çevrim Farkları Kazançları (Kayıpları),9.0,2026/06,quarter,1.000 TL,Konsolide,-212399.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Özkaynak Yöntemiyle Değerlenen Yatırımların Yabancı Para Çevrim Farkları Kazançları (Kayıpları),9.0,2025/06,quarter,1.000 TL,Konsolide,-222651.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılacak Diğer Kapsamlı Gelire İlişkin Vergiler,,2026/06,year_to_date,1.000 TL,Konsolide,-4643865.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılacak Diğer Kapsamlı Gelire İlişkin Vergiler,,2025/06,year_to_date,1.000 TL,Konsolide,366558.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılacak Diğer Kapsamlı Gelire İlişkin Vergiler,,2026/06,quarter,1.000 TL,Konsolide,-10769816.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kar veya Zararda Yeniden Sınıflandırılacak Diğer Kapsamlı Gelire İlişkin Vergiler,,2025/06,quarter,1.000 TL,Konsolide,524325.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ertelenmiş Vergi (Gideri) Geliri,26.0,2026/06,year_to_date,1.000 TL,Konsolide,-4643865.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ertelenmiş Vergi (Gideri) Geliri,26.0,2025/06,year_to_date,1.000 TL,Konsolide,366558.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ertelenmiş Vergi (Gideri) Geliri,26.0,2026/06,quarter,1.000 TL,Konsolide,-10769816.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ertelenmiş Vergi (Gideri) Geliri,26.0,2025/06,quarter,1.000 TL,Konsolide,524325.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DİĞER KAPSAMLI GELİR (GİDER),,2026/06,year_to_date,1.000 TL,Konsolide,12847089.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DİĞER KAPSAMLI GELİR (GİDER),,2025/06,year_to_date,1.000 TL,Konsolide,-657230.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DİĞER KAPSAMLI GELİR (GİDER),,2026/06,quarter,1.000 TL,Konsolide,31781291.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,DİĞER KAPSAMLI GELİR (GİDER),,2025/06,quarter,1.000 TL,Konsolide,-1548067.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,TOPLAM KAPSAMLI GELİR (GİDER),,2026/06,year_to_date,1.000 TL,Konsolide,63119562.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,TOPLAM KAPSAMLI GELİR (GİDER),,2025/06,year_to_date,1.000 TL,Konsolide,11324330.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,TOPLAM KAPSAMLI GELİR (GİDER),,2026/06,quarter,1.000 TL,Konsolide,77971072.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,TOPLAM KAPSAMLI GELİR (GİDER),,2025/06,quarter,1.000 TL,Konsolide,10265258.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kontrol Gücü Olmayan Paylar,,2026/06,year_to_date,1.000 TL,Konsolide,421611.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kontrol Gücü Olmayan Paylar,,2025/06,year_to_date,1.000 TL,Konsolide,193201.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kontrol Gücü Olmayan Paylar,,2026/06,quarter,1.000 TL,Konsolide,310423.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Kontrol Gücü Olmayan Paylar,,2025/06,quarter,1.000 TL,Konsolide,115980.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ana Ortaklık Payları,,2026/06,year_to_date,1.000 TL,Konsolide,62697951.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ana Ortaklık Payları,,2025/06,year_to_date,1.000 TL,Konsolide,11131129.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ana Ortaklık Payları,,2026/06,quarter,1.000 TL,Konsolide,77660649.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Diğer Kapsamlı Gelir,Ana Ortaklık Payları,,2025/06,quarter,1.000 TL,Konsolide,10149278.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,İŞLETME FAALİYETLERİNDEN NAKİT AKIŞLARI,,2026/06,year_to_date,1.000 TL,Konsolide,132366363.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,İŞLETME FAALİYETLERİNDEN NAKİT AKIŞLARI,,2025/06,year_to_date,1.000 TL,Konsolide,15012559.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Dönem Karı (Zararı),,2026/06,year_to_date,1.000 TL,Konsolide,50272473.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Dönem Karı (Zararı),,2025/06,year_to_date,1.000 TL,Konsolide,11981560.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Sürdürülen Faaliyetlerden Dönem Karı (Zararı),,2026/06,year_to_date,1.000 TL,Konsolide,50272473.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Sürdürülen Faaliyetlerden Dönem Karı (Zararı),,2025/06,year_to_date,1.000 TL,Konsolide,11981560.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Dönem Net Karı (Zararı) Mutabakatı İle İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,69092819.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Dönem Net Karı (Zararı) Mutabakatı İle İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,15948970.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Amortisman ve İtfa Gideri İle İlgili Düzeltmeler,41011,2026/06,year_to_date,1.000 TL,Konsolide,8872312.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Amortisman ve İtfa Gideri İle İlgili Düzeltmeler,41011,2025/06,year_to_date,1.000 TL,Konsolide,8554334.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Değer Düşüklüğü (İptali) İle İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,782266.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Değer Düşüklüğü (İptali) İle İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-91516.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Stok Değer Düşüklüğü (İptali) ile İlgili Düzeltmeler,"8, 30",2026/06,year_to_date,1.000 TL,Konsolide,782266.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Stok Değer Düşüklüğü (İptali) ile İlgili Düzeltmeler,"8, 30",2025/06,year_to_date,1.000 TL,Konsolide,-91516.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Karşılıklar İle İlgili Düzeltmeler,30,2026/06,year_to_date,1.000 TL,Konsolide,3723324.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Karşılıklar İle İlgili Düzeltmeler,30,2025/06,year_to_date,1.000 TL,Konsolide,2544822.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Pazarlıklı Satın Alım Sonucu Oluşan Kazanç ile İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,0.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Pazarlıklı Satın Alım Sonucu Oluşan Kazanç ile İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-11023.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faiz (Gelirleri) ve Giderleri İle İlgili Düzeltmeler,24,2026/06,year_to_date,1.000 TL,Konsolide,-9122227.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faiz (Gelirleri) ve Giderleri İle İlgili Düzeltmeler,24,2025/06,year_to_date,1.000 TL,Konsolide,-4492543.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Gerçekleşmemiş Yabancı Para Çevrim Farkları İle İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,-1284261.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Gerçekleşmemiş Yabancı Para Çevrim Farkları İle İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-565260.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Gerçeğe Uygun Değer Kayıpları (Kazançları) İle İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,48512272.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Gerçeğe Uygun Değer Kayıpları (Kazançları) İle İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,891712.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Gerçeğe Uygun Değer Kayıpları (Kazançları) ile İlgili Diğer Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,48512272.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Gerçeğe Uygun Değer Kayıpları (Kazançları) ile İlgili Diğer Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,891712.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Özkaynak Yöntemiyle Değerlenen Yatırımların Dağıtılmamış Karları ile İlgili Düzeltmeler,9,2026/06,year_to_date,1.000 TL,Konsolide,-672612.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Özkaynak Yöntemiyle Değerlenen Yatırımların Dağıtılmamış Karları ile İlgili Düzeltmeler,9,2025/06,year_to_date,1.000 TL,Konsolide,-747420.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Vergi (Geliri) Gideri İle İlgili Düzeltmeler,26,2026/06,year_to_date,1.000 TL,Konsolide,10757308.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Vergi (Geliri) Gideri İle İlgili Düzeltmeler,26,2025/06,year_to_date,1.000 TL,Konsolide,6123357.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Duran Varlıkların Elden Çıkarılmasından Kaynaklanan Kayıplar (Kazançlar) İle İlgili Düzeltmeler,23,2026/06,year_to_date,1.000 TL,Konsolide,-350.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Duran Varlıkların Elden Çıkarılmasından Kaynaklanan Kayıplar (Kazançlar) İle İlgili Düzeltmeler,23,2025/06,year_to_date,1.000 TL,Konsolide,-47941.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Yatırım ya da Finansman Faaliyetlerinden Kaynaklanan Nakit Akışlarına Neden Olan Diğer Kalemlere İlişkin Düzeltmeler,"6, 24",2026/06,year_to_date,1.000 TL,Konsolide,0.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Yatırım ya da Finansman Faaliyetlerinden Kaynaklanan Nakit Akışlarına Neden Olan Diğer Kalemlere İlişkin Düzeltmeler,"6, 24",2025/06,year_to_date,1.000 TL,Konsolide,16544.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Parasal Pozisyon Kazanç ve Kayıplarıyla İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,7897836.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Parasal Pozisyon Kazanç ve Kayıplarıyla İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,4086885.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Kar (Zarar) Mutabakatı İle İlgili Diğer Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,-373049.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Kar (Zarar) Mutabakatı İle İlgili Diğer Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-312981.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,İşletme Sermayesinde Gerçekleşen Değişimler,,2026/06,year_to_date,1.000 TL,Konsolide,28497347.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,İşletme Sermayesinde Gerçekleşen Değişimler,,2025/06,year_to_date,1.000 TL,Konsolide,-9863656.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ticari Alacaklardaki Azalış (Artış) ile İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,-16760755.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ticari Alacaklardaki Azalış (Artış) ile İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-13504558.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faaliyetlerle İlgili Diğer Alacaklardaki Azalış (Artış) ile İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,-9667441.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faaliyetlerle İlgili Diğer Alacaklardaki Azalış (Artış) ile İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-14377250.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Stoklardaki Azalışlar (Artışlar) İle İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,-24645748.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Stoklardaki Azalışlar (Artışlar) İle İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,16632847.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ticari Borçlardaki Artış (Azalış) ile İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,85140897.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ticari Borçlardaki Artış (Azalış) ile İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,-14602528.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faaliyetler ile İlgili Diğer Borçlardaki Artış (Azalış) ile İlgili Düzeltmeler,,2026/06,year_to_date,1.000 TL,Konsolide,-5569606.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faaliyetler ile İlgili Diğer Borçlardaki Artış (Azalış) ile İlgili Düzeltmeler,,2025/06,year_to_date,1.000 TL,Konsolide,15987833.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faaliyetlerden Elde Edilen Nakit Akışları,,2026/06,year_to_date,1.000 TL,Konsolide,147862639.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Faaliyetlerden Elde Edilen Nakit Akışları,,2025/06,year_to_date,1.000 TL,Konsolide,18066874.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Vergi İadeleri (Ödemeleri),26,2026/06,year_to_date,1.000 TL,Konsolide,-5984503.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Vergi İadeleri (Ödemeleri),26,2025/06,year_to_date,1.000 TL,Konsolide,-1627069.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Diğer Nakit Girişleri (Çıkışları),,2026/06,year_to_date,1.000 TL,Konsolide,-9511773.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Diğer Nakit Girişleri (Çıkışları),,2025/06,year_to_date,1.000 TL,Konsolide,-1427246.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,YATIRIM FAALİYETLERİNDEN KAYNAKLANAN NAKİT AKIŞLARI,,2026/06,year_to_date,1.000 TL,Konsolide,-13564562.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,YATIRIM FAALİYETLERİNDEN KAYNAKLANAN NAKİT AKIŞLARI,,2025/06,year_to_date,1.000 TL,Konsolide,-11371542.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Bağlı Ortaklıkların Kontrolünün Elde Edilmesine Yönelik Alışlara İlişkin Nakit Çıkışları,,2026/06,year_to_date,1.000 TL,Konsolide,0.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Bağlı Ortaklıkların Kontrolünün Elde Edilmesine Yönelik Alışlara İlişkin Nakit Çıkışları,,2025/06,year_to_date,1.000 TL,Konsolide,-1589059.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Başka İşletmelerin veya Fonların Paylarının veya Borçlanma Araçlarının Edinimi İçin Yapılan Nakit Çıkışları,,2026/06,year_to_date,1.000 TL,Konsolide,-45332.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Başka İşletmelerin veya Fonların Paylarının veya Borçlanma Araçlarının Edinimi İçin Yapılan Nakit Çıkışları,,2025/06,year_to_date,1.000 TL,Konsolide,-60330.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Maddi ve Maddi Olmayan Duran Varlıkların Satışından Kaynaklanan Nakit Girişleri,,2026/06,year_to_date,1.000 TL,Konsolide,1045.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Maddi ve Maddi Olmayan Duran Varlıkların Satışından Kaynaklanan Nakit Girişleri,,2025/06,year_to_date,1.000 TL,Konsolide,52013.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Maddi ve Maddi Olmayan Duran Varlıkların Alımından Kaynaklanan Nakit Çıkışları,,2026/06,year_to_date,1.000 TL,Konsolide,-11858044.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Maddi ve Maddi Olmayan Duran Varlıkların Alımından Kaynaklanan Nakit Çıkışları,,2025/06,year_to_date,1.000 TL,Konsolide,-10941299.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Alınan Temettüler,9,2026/06,year_to_date,1.000 TL,Konsolide,1337790.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Alınan Temettüler,9,2025/06,year_to_date,1.000 TL,Konsolide,1167128.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Diğer Nakit Girişleri (Çıkışları),30,2026/06,year_to_date,1.000 TL,Konsolide,-3000021.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Diğer Nakit Girişleri (Çıkışları),30,2025/06,year_to_date,1.000 TL,Konsolide,5.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,FİNANSMAN FAALİYETLERİNDEN NAKİT AKIŞLARI,,2026/06,year_to_date,1.000 TL,Konsolide,-45160214.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,FİNANSMAN FAALİYETLERİNDEN NAKİT AKIŞLARI,,2025/06,year_to_date,1.000 TL,Konsolide,11744926.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Borçlanmadan Kaynaklanan Nakit Girişleri,6,2026/06,year_to_date,1.000 TL,Konsolide,31193476.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Borçlanmadan Kaynaklanan Nakit Girişleri,6,2025/06,year_to_date,1.000 TL,Konsolide,48850461.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Borç Ödemelerine İlişkin Nakit Çıkışları,6,2026/06,year_to_date,1.000 TL,Konsolide,-14816272.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Borç Ödemelerine İlişkin Nakit Çıkışları,6,2025/06,year_to_date,1.000 TL,Konsolide,-19630107.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Kira Sözleşmelerinden Kaynaklanan Borç Ödemelerine İlişkin Nakit Çıkışları,6,2026/06,year_to_date,1.000 TL,Konsolide,-148343.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Kira Sözleşmelerinden Kaynaklanan Borç Ödemelerine İlişkin Nakit Çıkışları,6,2025/06,year_to_date,1.000 TL,Konsolide,-189450.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Türev Araçlardan Nakit Girişleri,,2026/06,year_to_date,1.000 TL,Konsolide,116070775.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Türev Araçlardan Nakit Girişleri,,2025/06,year_to_date,1.000 TL,Konsolide,755282.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Türev Araçlardan Nakit Çıkışları,,2026/06,year_to_date,1.000 TL,Konsolide,-163352772.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Türev Araçlardan Nakit Çıkışları,,2025/06,year_to_date,1.000 TL,Konsolide,-2330627.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ödenen Temettüler,,2026/06,year_to_date,1.000 TL,Konsolide,-21402951.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ödenen Temettüler,,2025/06,year_to_date,1.000 TL,Konsolide,-20720229.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ödenen Faiz,,2026/06,year_to_date,1.000 TL,Konsolide,-5934664.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Ödenen Faiz,,2025/06,year_to_date,1.000 TL,Konsolide,-6099294.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Alınan Faiz,,2026/06,year_to_date,1.000 TL,Konsolide,13230537.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Alınan Faiz,,2025/06,year_to_date,1.000 TL,Konsolide,11108890.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,YABANCI PARA ÇEVRİM FARKLARININ ETKİSİNDEN ÖNCE NAKİT VE NAKİT BENZERLERİNDEKİ NET ARTIŞ (AZALIŞ),,2026/06,year_to_date,1.000 TL,Konsolide,73641587.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,YABANCI PARA ÇEVRİM FARKLARININ ETKİSİNDEN ÖNCE NAKİT VE NAKİT BENZERLERİNDEKİ NET ARTIŞ (AZALIŞ),,2025/06,year_to_date,1.000 TL,Konsolide,15385943.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Yabancı Para Çevrim Farklarının Nakit ve Nakit Benzerleri Üzerindeki Etkisi,,2026/06,year_to_date,1.000 TL,Konsolide,4284580.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,Yabancı Para Çevrim Farklarının Nakit ve Nakit Benzerleri Üzerindeki Etkisi,,2025/06,year_to_date,1.000 TL,Konsolide,2428688.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,NAKİT VE NAKİT BENZERLERİNDEKİ NET ARTIŞ (AZALIŞ),,2026/06,year_to_date,1.000 TL,Konsolide,77926167.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,NAKİT VE NAKİT BENZERLERİNDEKİ NET ARTIŞ (AZALIŞ),,2025/06,year_to_date,1.000 TL,Konsolide,17814631.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,DÖNEM BAŞI NAKİT VE NAKİT BENZERLERİ,5,2026/06,year_to_date,1.000 TL,Konsolide,106727421.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,DÖNEM BAŞI NAKİT VE NAKİT BENZERLERİ,5,2025/06,year_to_date,1.000 TL,Konsolide,91271128.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,NAKİT VE NAKİT BENZERLERİNE İLİŞKİN ENFLASYON ETKİSİ,,2026/06,year_to_date,1.000 TL,Konsolide,-20068582.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,NAKİT VE NAKİT BENZERLERİNE İLİŞKİN ENFLASYON ETKİSİ,,2025/06,year_to_date,1.000 TL,Konsolide,-12330968.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,DÖNEM SONU NAKİT VE NAKİT BENZERLERİ,5,2026/06,year_to_date,1.000 TL,Konsolide,164585006.0,TUPRS_2026_6aylik_finansal_rapor.xls
+TUPRS,Nakit Akış,DÖNEM SONU NAKİT VE NAKİT BENZERLERİ,5,2025/06,year_to_date,1.000 TL,Konsolide,96754791.0,TUPRS_2026_6aylik_finansal_rapor.xls
