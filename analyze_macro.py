@@ -7,7 +7,7 @@ import pandas as pd
 PROJECT_DIR = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_DIR / "data"
 
-cpi = pd.read_csv(DATA_DIR / "tufe.csv", parse_dates=["date"])
+cpi = pd.read_csv(DATA_DIR / "tufe_2025base.csv", parse_dates=["date"])
 usd = pd.read_csv(DATA_DIR / "usdtry.csv", parse_dates=["date"])
 
 cpi["month"] = cpi["date"].dt.to_period("M")
@@ -55,7 +55,7 @@ plt.figure(figsize=(11, 6))
 plt.plot(
     comparison["month"],
     comparison["cpi_index_100"],
-    label="TÜFE endeksi",
+    label="TÜFE endeksi (2025 bazlı)",
 )
 plt.plot(
     comparison["month"],
@@ -71,5 +71,7 @@ plt.tight_layout()
 plt.savefig(chart_path, dpi=150)
 
 print(f"Ortak aylık gözlem: {len(comparison)}")
+print(f"İlk ay: {comparison['month'].min():%Y-%m}")
+print(f"Son ay: {comparison['month'].max():%Y-%m}")
 print(f"CSV: {csv_path}")
 print(f"Grafik: {chart_path}")
