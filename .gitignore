@@ -1,5 +1,18 @@
-﻿.env
+.env
 .venv/
 __pycache__/
 reports/ai_draft_for_review.md
 data/market/
+
+reports/ai_review/
+
+# Local session observations and paper-account runtime outputs
+*.log
+reports/session_watch_status.json
+reports/session_watch_summary.md
+reports/bist100_session_summary.md
+reports/execution_runs/
+reports/order_sheet.md
+reports/paper_trading_summary.md
+reports/forward_review.json
+reports/forward_review.md
